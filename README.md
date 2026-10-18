@@ -21,9 +21,6 @@ Português (nativo) · Inglês (C1, Cambridge) · Espanhol A2
 
 ![Back-End](https://skillicons.dev/icons?i=nodejs,postgres,mongodb)
 
-**Sistemas Embarcados**
-
-![Embarcados](https://skillicons.dev/icons?i=arduino)
 
 **Ferramentas**
 
